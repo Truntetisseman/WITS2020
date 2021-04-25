@@ -1,0 +1,109 @@
+.forum-header {
+	width: 100%;
+	background: #1F2833;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.forum-header > ul {
+  list-style-type: none;
+  margin: 120;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222;
+  position: ;
+  top: 0;
+  width: 100;
+  /* text-align: center; */
+}
+
+.profil-info > h1 {
+	background-color: #1f4a8200;
+	margin-top: 100px;
+	padding: initial;
+	/* text-align: center; */
+	width: ;
+	width: max-content;
+}
+
+body {
+background-image: url("https://ttf.dk/media/1326/DGF_01.jpg");
+background-color: #1e5aa682;
+background-repeat: no-repeat;
+background-position: top;
+}
+
+
+
+.profil-info > ul {
+	background-color: #1e5aa600;
+	width: max-content;
+}
+
+.addpostform {
+  font-size: 30px;
+  font-family: Verdana;
+  width: 70%;
+}
+
+.forum-header li {
+  float: left;
+}
+
+.forum-header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.forum-header ul > li:last-child {
+	background-color: grey;
+  border-right: none;
+}
+
+
+
+.forum-header li a:hover:not(.active) {
+  background-color: #598c93;
+}
+
+.forum-header > active {
+  background-color: #598c93;
+}
+
+.posts {
+  background-color : #50878eba;
+  color : white;
+  font-size : 1rem;
+  line-height : 1.5;
+  margin-top: 10px;
+  border-color: #212626;
+  border-style: inset;
+  border-width: 3px;
+}
+
+.answers {
+  background-color: #50878e00;
+  color: white;
+  font-size: 1rem;
+  line-height: 1;
+  margin-top: 10px;
+  border-color: #0d131300;
+  border-style: solid;
+  border-width: 5px;
+  border-style: inset;
+  border-width: 5px;
+}
+
+.answers img {
+   border-radius: 30px;
+   width: 30px;
+}
+
+a:link {
+	   color: black;
+	 }
+
+}
